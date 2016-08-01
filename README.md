@@ -52,7 +52,7 @@ Q. What if I just want to join the community directly? <br>
 A. You can join our community directly by submitting this [Membership Form](https://docs.google.com/forms/d/e/1FAIpQLSdijiEVAL_SdtssWfk-Nb9ldSmwwqVk4bnLCMWxB5G_Y4LOng/viewform)
 
 Q. What if I’m comfortable with the concepts being taught in the Level 1 and Level 2 meetup and want to directly join from Level 3? <br>
-A. You can fill this [Google Form](https://goo.gl/esglnI) to join or update to the level suitable to you. We’ll notify you when the details for that specific level is confirmed for the month. 
+A. You can fill this [Google Form](https://goo.gl/qT0txT) to join or update to the level suitable to you. We’ll notify you when the details for that specific level is confirmed for the month. 
 
 
 For any more questions, you can ping us on Discord/WhatsApp or mail us at freecodecamphyd@gmail.com
