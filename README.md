@@ -1,6 +1,6 @@
 # Meetups Guide
 
-There will be four official types of meetups that we’ll organize every month. These will be as follows :
+There will be three official types of meetups that we’ll organize every month. These will be as follows :
 	
 1. ###Intro To Web Development : 
   A series of four meetups that will be organized every weekend, targeted towards absolute and intermediate beginners. The mentors of the community will introduce you to the fundamental concepts of web development. They will go as follows : 
