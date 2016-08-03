@@ -2,16 +2,17 @@
 
 The latest structure that we’re going to follow for organizing our meetups from now on will mirror the FreeCodeCamp curriculum. Meaning, we’ll be organizing our meetups based on the various sections of the curriculum to aid your learning process, instead of diverting or obstructing you.  
 
-
+<img align="right" src="https://cloud.githubusercontent.com/assets/6577624/17375364/4181d020-59ce-11e6-8f0d-6dd9d3524de8.png">
 	
-
 As you can see, there are many individual sections for which we’ll need to organize meetups. But for the sake of simplicity and gradual growth, we’ll just focus on the main topics for now i.e, html/css, bootstrap/jQuery, JavaScript, Frontend Projects and git/GitHub. You can think of these sections as individual units.
 
+<br><br><br><br>
+
 For each unit, we’ll organize the meetups in two formats : 
-Teaching Format - In this format, we’ll teach you the syntax or an internal concept for that topic. 
-Practice Format - In this format, you’ll go through the curriculum on your own with us guiding you when you get stuck. 
+* Teaching Format - In this format, we’ll teach you the syntax or an internal concept for that topic. 
+* Practice Format - In this format, you’ll go through the curriculum on your own with us guiding you when you get stuck. 
 
-
+<img align="left" src="https://cloud.githubusercontent.com/assets/6577624/17375434/9259811e-59ce-11e6-93a2-7bad102febf4.png">
 
 As you can see, we have already created the required dedicated rooms. These rooms will be open to all our Discord members, at least for now. 
 
@@ -26,7 +27,7 @@ If sufficient number of members (say 8 for now) reach a new unit in the curricul
 The dedicated rooms can be used to ask questions, share resources, help each other when you get stuck as well. We can also utilize these rooms for live questions in our meetups. 
 
 
-###But what if I just want to join the community directly?
+### How can I join the community directly?
 You can join our community directly by submitting this [Membership Form](https://goo.gl/18XFsX)
 
 
