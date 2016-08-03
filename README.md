@@ -14,13 +14,15 @@ For each unit, we’ll organize the meetups in two formats :
 
 > ### The motive here is to encourage the campers to move to a new topic only when they feel comfortable with the old ones. This entire structure is our attempt to accomplish that intention.
 
+<br>
+
 <img align="left" src="https://cloud.githubusercontent.com/assets/6577624/17375434/9259811e-59ce-11e6-93a2-7bad102febf4.png">
 
 As you can see, we have already created the required dedicated rooms. These rooms will be open to all our Discord members, at least for now. 
 
 The meetups for each unit will be organized inside their respective rooms. For example, the practice session for JavaScript (in which we can solve a few algorithm challenges together), will be organized inside the JavaScript room. 
 
-We’ll decide which meetup to do when based on voting. We’ll ask the members of the room to vote on which format they’ll like us to organize in,  - teaching or practice. And based on the results, we’ll plan for that meetup two weeks in advance.
+We’ll decide which meetup to do when based on voting. We’ll ask the members of the room to vote on which format they’ll like us to organize - teaching or practice. And based on the results, we’ll plan for that meetup two weeks in advance.
 
 If a certain member finishes a section way before we can organize a meetup for the next one, they can spend their time guiding their fellow campers still going through the previous units, either virtually or by helping in the practice sessions. They can also approach the mentors with their doubts individually in the practice sessions or ask in the Discord group.
 
