@@ -6,11 +6,11 @@ The latest structure that we’re going to follow for organizing our meetups fro
 	
 As you can see, there are many individual sections for which we’ll need to organize meetups. But for the sake of simplicity and gradual growth, we’ll just focus on the main topics for now i.e, html/css, bootstrap/jQuery, JavaScript, Frontend Projects and git/GitHub. You can think of these sections as individual units.
 
-<br><br><br><br>
-
 For each unit, we’ll organize the meetups in two formats : 
 * Teaching Format - In this format, we’ll teach you the syntax or an internal concept for that topic. 
 * Practice Format - In this format, you’ll go through the curriculum on your own with us guiding you when you get stuck. 
+
+<br><br><br><br>
 
 <img align="left" src="https://cloud.githubusercontent.com/assets/6577624/17375434/9259811e-59ce-11e6-93a2-7bad102febf4.png">
 
