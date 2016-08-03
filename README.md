@@ -10,7 +10,9 @@ For each unit, we’ll organize the meetups in two formats :
 * Teaching Format - In this format, we’ll teach you the syntax or an internal concept for that topic. 
 * Practice Format - In this format, you’ll go through the curriculum on your own with us guiding you when you get stuck. 
 
-> The motive here is to encourage campers to move to a new topic only when they feel comfortable with the old ones. This entire structure is to our attempt to accomplish that intention
+<br><br>
+
+> ### The motive here is to encourage the campers to move to a new topic only when they feel comfortable with the old ones. This entire structure is our attempt to accomplish that intention.
 
 <img align="left" src="https://cloud.githubusercontent.com/assets/6577624/17375434/9259811e-59ce-11e6-93a2-7bad102febf4.png">
 
