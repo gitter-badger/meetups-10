@@ -12,13 +12,12 @@ For the sake of simplicity, we’ll focus on these sections for now:
 4. Frontend Projects
 5. Git and GitHub.
 
+<br>
 
 You can think of them as individual units. For each unit, we’ll organize the meetups in two formats: 
 - Teaching Format - In this meetup, we’ll be teaching you to the syntax and concepts. 
 - Practice Format - In this meetup, you’ll be solving the curriculum challenges by pair programming. You can also approach the mentors whenever you get stuck.
 
-
-<br>
 
 > ### The motive here is to encourage the campers to move to a new topic only when they feel comfortable with the old ones. This entire structure is our attempt to accomplish that intention.
 
