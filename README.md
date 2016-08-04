@@ -33,6 +33,10 @@ If a certain member finishes a unit way before we can organize the next meetup, 
 
 We encourage our members to help their fellow campers by attending the practice sessions for the units they have already completed.
 
+<br><br><br>
+
+##FAQ
+
 ### How can I join the community directly?
 You can join our community directly by submitting this [Membership Form](https://goo.gl/18XFsX)
 
