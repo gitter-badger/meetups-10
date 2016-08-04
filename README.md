@@ -1,16 +1,24 @@
-# Meetups Guide
+## Meetups Guide
 
-The latest structure that we’re going to follow for organizing our meetups from now on will mirror the FreeCodeCamp curriculum. Meaning, we’ll be organizing our meetups based on the various sections of the curriculum to aid your learning process, instead of diverting or obstructing you.  
+Our meetups are structured to mirror the various sections of the FreeCodeCamp curriculum so as to aid your learning process.
 
 <img align="right" src="https://cloud.githubusercontent.com/assets/6577624/17375364/4181d020-59ce-11e6-8f0d-6dd9d3524de8.png">
 	
-As you can see, there are many individual sections for which we’ll need to organize meetups. But for the sake of simplicity and gradual growth, we’ll just focus on the main topics for now i.e, html/css, bootstrap/jQuery, JavaScript, Frontend Projects and git/GitHub. You can think of these sections as individual units.
+For the sake of simplicity, we’ll focus on these sections for now:
 
-For each unit, we’ll organize the meetups in two formats : 
-* Teaching Format - In this format, we’ll teach you the syntax or an internal concept for that topic. 
-* Practice Format - In this format, you’ll go through the curriculum on your own with us guiding you when you get stuck. 
+1. HTML & CSS
+2. Bootstrap & jQuery 
+3. JavaScript
+4. Frontend Projects
+5. Git and GitHub.
 
-<br><br>
+
+You can think of them as individual units. For each unit, we’ll organize the meetups in two formats: 
+- Teaching Format - In this meetup, we’ll be teaching you to the syntax and concepts. 
+- Practice Format - In this meetup, you’ll be solving the curriculum challenges by pair programming. You can also approach the mentors whenever you get stuck.
+
+
+<br>
 
 > ### The motive here is to encourage the campers to move to a new topic only when they feel comfortable with the old ones. This entire structure is our attempt to accomplish that intention.
 
@@ -18,21 +26,20 @@ For each unit, we’ll organize the meetups in two formats :
 
 <img align="left" src="https://cloud.githubusercontent.com/assets/6577624/17375434/9259811e-59ce-11e6-93a2-7bad102febf4.png">
 
-As you can see, we have already created the required dedicated rooms. These rooms will be open to all our Discord members, at least for now. 
+We have dedicated rooms for each unit on our Discord. These rooms can be used to share resources, help each other when you get stuck as well as ask questions during our meetups. 
 
-The meetups for each unit will be organized inside their respective rooms. For example, the practice session for JavaScript (in which we can solve a few algorithm challenges together), will be organized inside the JavaScript room. 
+The meetups for each unit will be discussed and announced inside their respective rooms. For example, a practice session on JavaScript, in which we may solve a few algorithm challenges together, can be planned inside the JavaScript room. 
 
-We’ll decide which meetup to do when based on voting. We’ll ask the members of the room to vote on which format they’ll like us to organize - teaching or practice. And based on the results, we’ll plan for that meetup two weeks in advance.
+The members of the room can vote on which format they’ll like us to organize the next meetup and based on the results, we’ll arrange it in two weeks.
 
-If a certain member finishes a section way before we can organize a meetup for the next one, they can spend their time guiding their fellow campers still going through the previous units, either virtually or by helping in the practice sessions. They can also approach the mentors with their doubts individually in the practice sessions or ask in the Discord group.
+If a certain member finishes a unit way before we can organize the next meetup, they can either spend time guiding their fellow campers or continue with the curriculum.
 
-If sufficient number of members (say 8 for now) reach a new unit in the curriculum that requires it’s own dedicated room, like “JSON APIs and Ajax,“ then we’ll create the new room and organize the meetups for that unit in that room only. 
-
-The dedicated rooms can be used to ask questions, share resources, help each other when you get stuck as well. We can also utilize these rooms for live questions in our meetups. 
-
+We encourage our members to help their fellow campers by attending the practice sessions for the units they have already completed.
 
 ### How can I join the community directly?
 You can join our community directly by submitting this [Membership Form](https://goo.gl/18XFsX)
 
+### What if I reach a section that doesn’t have it’s own dedicated room?
+We will create a new dedicated room if at least 10 members reach that section.
 
 For any more questions, you can post a [new issue](https://github.com/fcc-hyd/Meetups/issues/new), ask us in the Discord room or mail us at freecodecamphyd@gmail.com
