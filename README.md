@@ -35,4 +35,4 @@ The dedicated rooms can be used to ask questions, share resources, help each oth
 You can join our community directly by submitting this [Membership Form](https://goo.gl/18XFsX)
 
 
-For any more questions, ask us in the Discord room or mail us at freecodecamphyd@gmail.com
+For any more questions, you can post a [new issue](https://github.com/fcc-hyd/Meetups/issues/new), ask us in the Discord room or mail us at freecodecamphyd@gmail.com
