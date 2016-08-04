@@ -2,7 +2,7 @@
 
 Our meetups are structured to mirror the various sections of the FreeCodeCamp curriculum so as to aid your learning process.
 
-<img align="right" src="https://cloud.githubusercontent.com/assets/6577624/17375364/4181d020-59ce-11e6-8f0d-6dd9d3524de8.png">
+<p align="center"><img src="https://cloud.githubusercontent.com/assets/6577624/17375364/4181d020-59ce-11e6-8f0d-6dd9d3524de8.png"></p>
 	
 For the sake of simplicity, we’ll focus on these sections for now:
 
@@ -11,8 +11,6 @@ For the sake of simplicity, we’ll focus on these sections for now:
 3. JavaScript
 4. Frontend Projects
 5. Git and GitHub.
-
-<br>
 
 You can think of them as individual units. For each unit, we’ll organize the meetups in two formats: 
 - Teaching Format - In this meetup, we’ll be teaching you to the syntax and concepts. 
