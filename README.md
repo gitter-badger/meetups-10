@@ -38,7 +38,7 @@ We encourage our members to help their fellow campers by attending the practice 
 ##FAQ
 
 ### How can I join the community directly?
-You can join our community directly by submitting this [Membership Form](https://goo.gl/18XFsX)
+You can join our community directly by submitting this [Membership Form](https://goo.gl/7oCfLX)
 
 ### What if I reach a section that doesn’t have it’s own dedicated room?
 We will create a new dedicated room if at least 10 members reach that section.
